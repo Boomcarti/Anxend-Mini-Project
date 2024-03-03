@@ -2,4 +2,5 @@ Flask==2.0.1
 Flask-WTF==0.15.1
 WTForms==2.3.3
 Flask-Caching==1.10.1
-edgedb==0.1.0
+edgedb>=0.1.0  # Ensure you specify a valid version of EdgeDB
+Werkzeug==2.0.1
