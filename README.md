@@ -1,4 +1,4 @@
-# Anxend Interview Mini Project
+# Anxend Interview Mini Project 1
 
 ## Overview
 This Flask web application allows users to add and view schools in their town. It features a form for adding schools, including their name, address, and town, and displays a list of schools filtered by the selected town. The application uses Flask, WTForms for form handling, Flask-Caching for caching queries, and EdgeDB as the database backend.
